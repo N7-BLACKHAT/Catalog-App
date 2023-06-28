@@ -1,0 +1,76 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "iPhone 14 Pro",
+            "desc": "Apple iPhone 14th Generation",
+            "price": 999,
+            "color": "#33505a",
+            "image":
+                "https://rukminim1.flixcart.com/image/416/416/xif0q/mobile/l/8/r/-original-imaghxemnnnkd8bg.jpeg?q=70"
+        },
+        {
+            "id": 2,
+            "name": "iPhone 14",
+            "desc": "Apple iPhone 14th Generation",
+            "price": 799,
+            "color": "#00ac51",
+            "image":
+                "https://rukminim1.flixcart.com/image/416/416/xif0q/mobile/3/5/l/-original-imaghx9qmgqsk9s4.jpeg?q=70"
+        },
+        {
+            "id": 3,
+            "name": "iPhone 13",
+            "desc": "Apple iPhone 13th Generation",
+            "price": 699,
+            "color": "#e0bfae",
+            "image":
+                "https://rukminim1.flixcart.com/image/416/416/ktketu80/mobile/8/z/w/iphone-13-mlph3hn-a-apple-original-imag6vzzhrxgazsg.jpeg?q=70"
+        },
+        {
+            "id": 4,
+            "name": "Macbook Air",
+            "desc": "Apple Macbook Air with M2 Chip",
+            "price": 1199,
+            "color": "#544ee4",
+            "image":
+                "https://rukminim1.flixcart.com/image/416/416/xif0q/computer/m/b/n/-original-imagfdf4xnbyyxpa.jpeg?q=70"
+        },
+        {
+            "id": 5,
+            "name": "Macbook Pro",
+            "desc": "Apple Macbook Pro with M2 Pro Chip",
+            "price": 1999,
+            "color": "#e3e4e9",
+            "image":
+                "https://rukminim1.flixcart.com/image/416/416/xif0q/computer/y/i/y/mphg3hn-a-thin-and-light-laptop-apple-original-imagmfhepavqyfyy.jpeg?q=70"
+        },
+        {
+            "id": 6,
+            "name": "AirPods 3",
+            "desc": "Apple AirPods 3rd Generation",
+            "price": 169,
+            "color": "#f73984",
+            "image":
+                "https://rukminim1.flixcart.com/image/416/416/kwdv3bk0/headphone/k/f/j/-original-imag92pgr5yttjez.jpeg?q=70"
+        },
+        {
+            "id": 7,
+            "name": "AirPods Pro 2",
+            "desc": "Apple AirPods Pro 2nd Generation",
+            "price": 249,
+            "color": "#1c1c1c",
+            "image":
+                "https://rukminim1.flixcart.com/image/416/416/xif0q/headphone/5/5/0/-original-imaghxgn2dyhnvkx.jpeg?q=70"
+        },
+        {
+            "id": 8,
+            "name": "AirPods Max",
+            "desc": "Apple AirPods Max with ANC",
+            "price": 549,
+            "color": "#7c95eb",
+            "image":
+                "https://rukminim1.flixcart.com/image/416/416/kigbjbk0-0/headphone/n/z/m/mgyl3hn-a-apple-original-imafy8wb7tuduaf2.jpeg?q=70"
+        }
+    ]
+}
